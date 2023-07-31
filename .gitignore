@@ -1,0 +1,9 @@
+.idea
+backend/node_modules
+backend/dist
+backend/package-lock.json
+
+frontend/node_modules
+frontend/dist
+frontend/.vscode
+frontend/package-lock.json
